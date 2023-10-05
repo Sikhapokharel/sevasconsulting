@@ -3,3 +3,5 @@
 /* components css files  */
 @import"./components.css/header.css";
 @import"./components.css/hero-section.css";
+@import"./components.css/component.css";
+@import"./components.css/main-content.css";

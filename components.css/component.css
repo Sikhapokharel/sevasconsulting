@@ -1,0 +1,78 @@
+/* button component */
+/* .btn{
+    padding: 15px 18px;
+     border-radius: 8px;
+    background-color: #094926;
+} */
+a{
+    text-decoration: none;
+}
+.btn{
+    display: inline-block;
+    padding: 8px 18px;
+    border-radius: 10px;
+    border: 2px solid #094926;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+}
+.primary-btn{
+    background-color: #094926;
+    color: #fff;
+}
+.primary-btn:hover {
+    background: #fff;
+    color: #094926;
+}
+/* testimonial section */
+.review{
+   background-color: #F8FCFE;
+   padding: 30px 24px 25px 24px;
+   filter: drop-shadow(0px 2px 8px rgba(0, 0, 0, 0.10));
+}
+.review-small{
+    width: 320px;
+}
+.review-large{
+    width: 420px;
+}
+.review-small .col-1{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-top:15px;
+}
+.review-small  p{
+    color: #2C3539;
+    font-size: 14px;
+    font-weight: 300;
+}
+.review-small  h4{
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 8px;
+}
+.review-large .col-1{
+    display: flex;
+    align-items: center;
+    gap: 17px;
+    margin-top:40px;
+}
+.review-large  p{
+    color: #2C3539;
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 300;
+}
+.review-large  h4{
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.review-large .star{
+    display: flex;
+    gap: 8px;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+

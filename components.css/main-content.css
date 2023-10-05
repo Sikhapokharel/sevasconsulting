@@ -1,0 +1,146 @@
+.training{
+    padding:100px 0px ;
+}
+.training .col-1 h2{
+    text-align: center;
+}
+.training .col-2{
+    display: flex;
+    gap: 90px;
+    align-items: center;
+    margin-top: 100px;
+}
+.training .col-2 h3{
+    margin-bottom: 35px;
+}
+.training .col-2 p{
+    margin-bottom: 18px;
+
+}
+.training .col-2 .content .button{
+    padding-top: 17px;
+}
+/* SAS Resourcing  */
+.resourcing{
+    padding:100px 0px ;
+    background-color: #F5F5F5;
+}
+.resourcing .col-1 h2{
+    text-align: center;
+}
+.resourcing .col-2{
+    display: flex;
+    gap: 90px;
+    align-items: center;
+    margin-top: 100px;
+}
+.resourcing .col-2 h3{
+    margin-bottom: 35px;
+}
+.resourcing .col-2 p{
+    margin-bottom: 18px;
+
+}
+.resourcing .col-2 .content .button{
+    padding-top: 17px;
+}
+    /* about us  */
+    .aboutus{
+        padding:100px 0px ;
+    }
+    .aboutus .col-1 h2{
+        text-align: center;
+    }
+    .aboutus .col-2{
+        display: flex;
+        gap: 90px;
+        align-items: center;
+        margin-top: 100px;
+    }
+    .aboutus .col-2 h3{
+        margin-bottom: 35px;
+    }
+    .aboutus .col-2 p{
+        margin-bottom: 18px;
+    
+    }
+    .aboutus .col-2 .content .button{
+        padding-top: 17px;
+    }
+    .aboutus .media .background{
+        height: 300px;
+        width: 540px;
+        border: 3px solid #094926;
+        z-index: -1;
+    }
+    .aboutus .media img{
+        position: absolute;
+        margin:-20px;
+        /* z-index: -1; */
+    }
+
+
+    /* choose us css */
+    .chooseus{
+        padding:20px 100px 100px 100px;
+
+    }
+    .chooseus .upper-content .rectangle{
+        width: 600px;
+        background-color: #094926;
+        position: absolute;
+        margin-top: 34px;
+
+    }
+    .chooseus .img-content{
+       z-index: -1; 
+       position: relative;
+       margin-left: 242px;
+    }
+
+
+    .chooseus .content{
+        padding: 50px 80px 74px 60px ;
+    }
+    .chooseus .upper-content .rectangle .content h2{
+        color: #fff;
+        text-align: center;
+        
+    }
+    
+    .chooseus .upper-content .content h3{
+        color: #fff;
+        
+    }
+    .chooseus .upper-content .content .content-count{
+        display: flex;
+        gap: 15px;
+        align-items: center;
+        margin-top: 30px;
+    }
+    .chooseus .upper-content .content .content-count .number h1{
+        color: #fff;
+        font-size: 80px;
+    }
+    .chooseus .upper-content .content .content-count h3{
+        font-size: 18px;
+        font-weight: 700;
+    }
+    .chooseus .upper-content .content .content-count p{
+        color: #fff;
+    }
+    /* tetimonial section*/
+    .testimonials{
+        padding: 100px 0 ;
+        background-color: #F5F5F5;
+    }
+    .testimonials h2{
+        text-align: center;
+        margin-bottom: 100px;
+    }
+    .testimonials .col-1{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 40px;
+    }
