@@ -1,0 +1,35 @@
+.header .row-1 .img-discription .p1 p{
+    font-size: 12px;
+    margin-bottom: 0px;
+}
+.header .row-1 .img-discription .p2 p{
+    font-size: 18px;
+    color: #2C3539;
+    font-weight: 400;
+}
+.header .row-1 {
+    display: flex;
+    align-items: center;
+    gap:15px ;
+}
+.header {
+    display: flex;
+    justify-content: center;
+    gap: 225px;
+    padding: 50px 0px;
+}
+.siteheader{
+    background-color: #F5F5F5;
+}
+/* site menu  */
+.menu{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.menu a{
+    text-decoration: none;
+    color: #2C3539;
+    font-size: 20px;
+    padding: 40px 0px;
+}

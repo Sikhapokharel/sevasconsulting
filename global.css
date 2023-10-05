@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Bitter', serif;
+    font-style: normal;
+    color: #2C3539;
+}
+.container {
+    max-width: 1288px;
+    margin: 0 auto;
+    padding: 0 24px;
+}
+
+h1 {
+    font-size: 68px;
+    color: #fff;
+    font-weight: 600;
+    line-height: 82px;
+}
+
+h2 {
+    font-size: 40px;
+    font-weight: 300;
+    line-height: 48px;
+    font-style: normal;
+}
+
+h3 {
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 36px;
+}
+
+h4 {
+
+    font-size: 24px;
+    font-weight: 400;
+}
+
+p {
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 24px;
+    color: #A7A7A7;
+
+}

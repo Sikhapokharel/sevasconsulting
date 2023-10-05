@@ -1,0 +1,5 @@
+@import "./global.css";
+
+/* components css files  */
+@import"./components.css/header.css";
+@import"./components.css/hero-section.css";
