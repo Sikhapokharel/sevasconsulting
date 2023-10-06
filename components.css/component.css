@@ -76,3 +76,60 @@ a{
     margin-bottom: 30px;
 }
 
+/* email box css */
+.email{
+    /* background-color: #F5F5F5; */
+
+}
+.email{
+ 
+        display: flex;
+        width: 370px;
+        align-items: center;
+        gap: 215px;
+        padding: 16px 10px 16px 16px;
+        border-radius: 5px;
+        background-color: #F5F5F5;
+        font-size: 14px;
+        font-weight: 300;
+        color: #0C090A;
+        line-height: normal;
+    }
+
+/* links components */
+.row-links h4{
+    color: #094926;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+.row-links .links a{
+    color: #0C090A;
+    font-size: 16px;
+    /* line-height: 24px; */
+    margin-bottom: 25px;
+}
+.row-links .links{
+    display: grid;
+}
+
+/* conatct us css */
+
+.contact{
+    display: flex;
+    gap: 18px;
+    align-items:center ;
+    margin-bottom: 25px;
+}
+.contact p{
+    color: #0C090A;
+    font-size: 16px;
+    font-weight: 400;
+    width: 255px;
+}
+
+/* follow us */
+.media-followus{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
